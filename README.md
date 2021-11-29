@@ -2,7 +2,7 @@
 2021 CRA 겨울방학 프로젝트: 딥러닝 스터디의 코드저장소 입니다.
 
 ## Member
-* Jian Choi (최지안, CRA '21-2)
+* Jian Choi (최지안, CRA '21-2) (Leader)
 * Hyunseo Lee (이현서, CRA '21-2)
 
 ## Goals
